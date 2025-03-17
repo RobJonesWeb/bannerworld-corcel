@@ -43,22 +43,9 @@ You can use WordPress as the backend (administration panel) or CMS, for insertin
 
 # Version Compatibility
 
- Laravel  | Corcel
-:---------|:----------
- 5.1.x    | `~2.1.0`
- 5.2.x    | `~2.2.0`
- 5.3.x    | `~2.3.0`
- 5.4.x    | `~2.4.0`
- 5.5.x    | `~2.5.0`
- 5.6.x    | `~2.6.0`
- 5.7.x    | `~2.7.0`
- 5.8.x    | `~2.8.0`
- 6.0.x    | `^3.0.0`
- 7.0.x    | `^4.0.0`
- 8.0.x    | `^5.0.0`
- 9.0.x    | `^6.0.0`
- 10.0.x   | `^7.0.0`
- 11.0.x   | `^8.0.0`
+| Laravel        | Corcel |
+|:---------------|:-------|
+| 11.0.x, 12.0.x | `^1.0` |
 
 # <a id="installing-corcel"></a> Installing Corcel
 
